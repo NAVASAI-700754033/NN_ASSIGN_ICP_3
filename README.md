@@ -15,4 +15,4 @@ Neural Network Assignment ICP_3 Programs:
 - Then reshaped the array to 4 by 5
 - Then replaced the max in each row with 0 (axis=1)
 
-[Explanation_Video]()
+[Explanation_Video](https://drive.google.com/drive/folders/13LsEExHvbrjZ06aQ5DiM0es0vsAyqQqX?usp=drive_link)
